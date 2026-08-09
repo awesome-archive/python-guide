@@ -1,10 +1,14 @@
+
+####################
 Network Applications
-====================
+####################
+
+.. image:: /_static/photos/34364815780_bea6614025_k_d.jpg
 
 
-
+****
 HTTP
-::::
+****
 
 The Hypertext Transfer Protocol (HTTP) is an application protocol for
 distributed, collaborative, hypermedia information systems. HTTP is the
@@ -24,13 +28,14 @@ your URLs, or to form-encode your POST data. Keep-alive and HTTP connection
 pooling are 100% automatic, powered by urllib3, which is embedded within
 Requests.
 
-- `Documentation <http://docs.python-requests.org/en/latest/index.html>`_
-- `PyPi <http://pypi.python.org/pypi/requests>`_
+- `Documentation <https://requests.readthedocs.io/en/latest/>`_
+- `PyPi <http://pypi.org/project/requests>`_
 - `GitHub <https://github.com/kennethreitz/requests>`_
 
 
+*******************
 Distributed Systems
-::::::::::::::::::::
+*******************
 
 
 ZeroMQ
